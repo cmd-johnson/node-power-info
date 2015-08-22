@@ -1,0 +1,27 @@
+{
+  "name": "node-power-info",
+  "version": "0.0.0",
+  "description": "Cross-platform node library for accessing battery and power adapter information",
+  "main": "index.js",
+  "keywords": [
+    "battery",
+    "adapter",
+    "status",
+    "charge"
+  ],
+  "author": "Jonas Auer <jonas.auer.94@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cmd-johnson/node-power-info.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cmd-johnson/node-power-info/issues"
+  },
+  "dependencies": {
+    "async": "^1.4.2"
+  },
+  "devDependencies": {
+    "eslint": "^1.2.1"
+  }
+}
