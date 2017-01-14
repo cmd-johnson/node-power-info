@@ -1,6 +1,6 @@
 {
   "name": "node-power-info",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Cross-platform node library for accessing battery power information",
   "main": "index.js",
   "keywords": [
