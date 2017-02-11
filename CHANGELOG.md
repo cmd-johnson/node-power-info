@@ -7,3 +7,6 @@
 
 ## 0.1.5
 * Added support for detecting batteries showing up as 'CKB[\d]+' on some linux systems
+
+## 0.1.6
+* Fixed a typo in the battery path regex
