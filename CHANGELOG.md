@@ -25,3 +25,6 @@
 
 ## 1.0.2
 * Fix status name being incorrectly read from uevent data
+
+## 1.0.3
+* Handle the uevent edge-case of currentPower being zero
