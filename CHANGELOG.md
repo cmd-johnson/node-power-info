@@ -13,3 +13,12 @@
 
 ## 0.1.7
 * Add support for retrieving the approximate remaining time until the battery is (dis-)charged on macOS
+
+## 1.0.0
+* Refactor everything to use a proper class for storing battery information
+* The module now uses promises instead of callbacks where possible
+* Providers are now selected based on availablility instead of the active operating system
+* Add support for remainingTime information on linux systems using a uevent provider
+
+## 1.0.1
+* Improve handling of duration edge-cases in uevent provider
