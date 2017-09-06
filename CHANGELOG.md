@@ -22,3 +22,6 @@
 
 ## 1.0.1
 * Improve handling of duration edge-cases in uevent provider
+
+## 1.0.2
+* Fix status name being incorrectly read from uevent data
