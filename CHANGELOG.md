@@ -34,3 +34,6 @@
 
 ## 1.0.5
 * Add sanity checks to Battery's remaining time value (they may no longer be Infinity or NaN or anything but a number)
+
+## 1.0.6
+* Fix remainingTimeHours or remainingTimeMinutes being set to `null` when they are actually 0
