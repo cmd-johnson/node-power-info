@@ -31,3 +31,6 @@
 
 ## 1.0.4
 * Add a provider that relies on the Battery Status API supported by some browsers (https://w3c.github.io/battery/)
+
+## 1.0.5
+* Add sanity checks to Battery's remaining time value (they may no longer be Infinity or NaN or anything but a number)
