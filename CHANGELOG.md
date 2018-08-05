@@ -28,3 +28,6 @@
 
 ## 1.0.3
 * Handle the uevent edge-case of currentPower being zero
+
+## 1.0.4
+* Add a provider that relies on the Battery Status API supported by some browsers (https://w3c.github.io/battery/)
